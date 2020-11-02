@@ -1,7 +1,6 @@
-a### Hi there 👋
-![github stats](https://github-readme-stats.vercel.app/api?username=faismuzaki&show_icons=true)
+### Hi there 👋
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=faismuzaki&show_icons=true)
 
 - 🔭 I’m currently still School on Vocational High School
 - 🌱 I’m currently learning Laravel and Vue
