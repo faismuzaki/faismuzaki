@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning Laravel and Vue
 - 📫 You can reach me at faismuzakiid@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faismuzaki&layout=compact" alt="faismuzaki's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faismuzaki&theme=vue" alt="faismuzaki's github stats"/>
    </a>
